@@ -31,9 +31,8 @@ THEN that will be shown on the page, and added to their transaction history when
 
 - - -
 
-## Installation
-
-
-## Deployed Application
+##  Application
+[Git Hub Repo](https://github.com/ktinj/Budget-Tracker)
+[Heroku](Heroku)
 
 
