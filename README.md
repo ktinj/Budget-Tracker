@@ -31,8 +31,9 @@ THEN that will be shown on the page, and added to their transaction history when
 
 - - -
 
-##  Application
+##  Links
 [Git Hub Repo](https://github.com/ktinj/Budget-Tracker)
+
 [Heroku](https://fierce-river-46206.herokuapp.com/)
 
 
